@@ -1,6 +1,6 @@
 {
     "name": "@karprabha/mobile-menu",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "mobile-menu",
     "main": "dist/mobile-menu.js",
     "scripts": {
